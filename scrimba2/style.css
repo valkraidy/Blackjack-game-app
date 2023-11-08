@@ -1,0 +1,52 @@
+/*.box{
+    background-color: red;
+    height: 100px;
+    width: 400px;
+    justify-content: center;
+    align-items: center;
+  margin: 100px;
+  font-size: larger;
+    
+
+}*/
+body{
+text-align: center;
+
+}
+.container{
+ width: 100%;
+ height: 600px;
+/*background-image: url(/jack-1.jpg);*/
+background-color: rgb(84, 109, 46);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+ 
+}
+
+h1{
+  font-size: 4rem;
+  color: goldenrod;
+
+
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+p{
+  font-size: 2rem;
+  color: white;
+  font-weight: 500;
+  margin: 50px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+button{
+  border: none;
+  width: 140px;
+  height: 30px;
+  color: green;
+  font-size: 1rem;
+  background-color: goldenrod;
+  font-weight: 300px;
+  margin-bottom: 4px;
+}
